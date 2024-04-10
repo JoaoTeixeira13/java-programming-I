@@ -4,18 +4,15 @@ Welcome to the Java Programming I MOOC repository! This course is designed to pr
 
 ## Course Overview
 
-- **Course Name**: Java Programming I MOOC
-- **University**: University of Helsinki
-- **Course Website**: [Java Programming I MOOC](https://java-programming.mooc.fi/)
-- **Repository**: [GitHub Repository](https://github.com/your-username/java-programming-1)
+-   **Course Name**: Java Programming I MOOC
+-   **University**: University of Helsinki
+-   **Course Website**: [Java Programming I MOOC](https://java-programming.mooc.fi/)
 
 ## Contents
 
 This repository contains the following resources:
 
-
-- **Solutions**: My solutions to the exercises for reference and self-assessment.
-
+-   **Solutions**: My solutions to the exercises for reference and self-assessment.
 
 ## Getting Started
 
@@ -29,4 +26,3 @@ To get started with the course, follow these steps:
 ## Contribution
 
 If you find any issues with the course material or have suggestions for improvement, please feel free to create an issue or submit a pull request in this repository. Your contributions are highly appreciated!
-
